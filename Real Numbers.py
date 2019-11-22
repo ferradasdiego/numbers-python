@@ -7,7 +7,7 @@ from pymep.exception import CalculatorException
 fx="cos(10)"
 print(parse(fx))
 
-xi=5
+p=5
 fx = "1 + x"
 print(eval(fx, xi))
 
